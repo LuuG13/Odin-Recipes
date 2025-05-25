@@ -1,6 +1,6 @@
 # odin-recipes
 
-Hola!! Este es mi primer proyecto usando GIT con The Odin Proyect
+Hola!! 
 
 ##  contenido
 
